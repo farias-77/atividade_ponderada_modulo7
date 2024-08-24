@@ -19,3 +19,11 @@ Este repositório é uma atividade avaliativa do Módulo 7 do curso de Ciência 
 ## Estrutura do Projeto
 
 -   **Jogadores.php**: Arquivo principal que contém o código PHP para manipulação do banco de dados e exibição da interface.
+
+## Vídeo Demonstrativo
+
+Assista ao vídeo demonstrativo para ver o funcionamento completo da aplicação:
+
+https://drive.google.com/file/d/1lZCR3X5efVtQD4GKMmxQsD1whn9eIKHl/view?usp=sharing
+
+> **Nota:** O vídeo só está disponível para visualização por pessoas com contas no domínio **Inteli**.
